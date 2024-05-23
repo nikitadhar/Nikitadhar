@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp"/>
 - 🔭 I’m currently working on **Ecommerce**
 
-- 💬 Ask me about **JavaScript , python, reactjs, Django, Expressjs, mongodb**
+- 💬 Ask me about **JavaScript , python, reactjs, nodejs, Expressjs, mongodb**
 
 - 📫 How to reach me **nikitadhar@142017@gmail.com**
 
