@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikitadhar@142017@gmail.com**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAF_Uen6nZI/EywJPB1kukJqCvySYbQ-QQ/edit?utm_content=DAF_Uen6nZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📄 Know about my experiences https://pdf.ac/2ReXvF
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
